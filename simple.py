@@ -59,9 +59,6 @@ class Rectangle(object):
 
         return False
 
-    def is_contiguous(self, other):
-        self.a.x == self.b.
-
 
 class MinecraftCircle(object):
     def __init__(self, center, radius):
